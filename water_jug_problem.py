@@ -1,8 +1,7 @@
 import collections
 
 """
-Authors: Khasmamad Shabanovi 21701333
-         Mohamad Fakhouri    21701546
+
 States:  Amount of water in each respective jug, where the states are represented by
             [a, b] and a is the amount in the first jug and b is the amount in the second jug
 Initial State: [0,0]
